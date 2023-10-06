@@ -8,6 +8,7 @@ player = FirstPersonController()
 # Himmel
 Sky(texture='sky_sunset')
 
+
 # Roboter
 for i in range(4):
   for j in range(4):
